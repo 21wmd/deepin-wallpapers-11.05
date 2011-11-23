@@ -1,3 +1,9 @@
+deepin-wallpapers-11.05 (11.05-2) oneiric; urgency=low
+
+  * 标准打包
+
+ -- Wang Mingdong <wangmingdong@linuxdeepin.com>  Wed, 23 Nov 2011 13:20:23 +0800
+
 deepin-wallpapers-11.05 (11.05-1) maverick-special; urgency=low
 
   * Removed no-needed postinst script
