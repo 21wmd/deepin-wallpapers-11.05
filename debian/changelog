@@ -1,0 +1,11 @@
+deepin-wallpapers-11.05 (11.05-1) maverick-special; urgency=low
+
+  * Removed no-needed postinst script
+
+ -- Leng Ganghua <hiweed@gmail.com>  Wed, 04 May 2011 14:57:09 +0800
+
+deepin-wallpapers-11.05 (11.05) maverick-special; urgency=low
+
+  * init replease.
+
+ -- Leng Ganghua <hiweed@gmail.com>  Wed, 3 May 2011 14:23:09 +0800
